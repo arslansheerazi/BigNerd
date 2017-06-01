@@ -11,4 +11,9 @@ public class Utils {
     public static void logMessage(String classTag , String logMessage){
         Log.d("*****"+classTag+"*****" , "<>"+logMessage+"<>");
     }
+
+    public static boolean isEmpty(String value){
+
+        return value == null || value.isEmpty();
+    }
 }
