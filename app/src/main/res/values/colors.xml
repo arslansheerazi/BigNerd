@@ -12,4 +12,5 @@
 
     <color name="background">#f9f7f8</color>
     <color name="foreground">#ffffff</color>
+    <color name="textgreen">#92b025</color>
 </resources>

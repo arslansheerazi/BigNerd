@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "166673581069",
+    "firebase_url": "https://fir-test-faff9.firebaseio.com",
+    "project_id": "fir-test-faff9",
+    "storage_bucket": "fir-test-faff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166673581069:android:67b81732c721683c",
+        "android_client_info": {
+          "package_name": "com.example.arsalanhaider.bignerd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166673581069-rohh5rg5em123ic8qn47i0tnpd01a3ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhStk2FB79bxHX1JfXltn6CzscEzjoVp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

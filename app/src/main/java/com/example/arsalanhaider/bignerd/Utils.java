@@ -8,6 +8,8 @@ import android.util.Log;
 
 public class Utils {
 
+    public static final String FIREBASE_TAG = "<----Firebase---->";
+
     public static void logMessage(String classTag , String logMessage){
         Log.d("*****"+classTag+"*****" , "<>"+logMessage+"<>");
     }

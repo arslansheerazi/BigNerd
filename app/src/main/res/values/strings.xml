@@ -18,4 +18,9 @@
 
     <string name="increment">Increment.</string>
     <string name="decrement">Decrement.</string>
+
+    <string name="crime_title_hint">Enter a title for crime</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_detail_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
 </resources>
